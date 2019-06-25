@@ -67,8 +67,8 @@ module.exports = {
       platform: 'github',
       owner: 'feather',
       repo: 'blog',
-      clientId: '',
-      clientSecret: '',
+      clientId: '01b4251b3fc6c3412a05',
+      clientSecret: 'b9ebd1d0b2f29a22b8c2efff8db5105c47136261',
     },
     sitemap: {
       hostname: 'https://FeatherJiang.github.io',
